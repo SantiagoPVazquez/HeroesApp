@@ -1,8 +1,23 @@
-# React + Vite
+# Heroes App
+## This is a React project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+HeroesApp is a single page application (SPA) using React Routes and implementing protected and public routes.
 
-Currently, two official plugins are available:
+To create all node packages use this command: 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+```
+yarn install
+```
+
+To run the application use this command:
+
+```
+yarn dev
+```
+
+To run automated tests use this command: 
+
+
+```
+yarn test
+```
